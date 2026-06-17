@@ -11,7 +11,7 @@
   * [Recall Network — Community Moderator](roles/recall-network.md)
   * [Fraction AI - Moderator](roles/fraction-ai.md)
 * [🛠️ My Work](projects/README.md)
-  * [⭐ Github](projects/dobby-extension.md)
+  * [⭐ GitHub Repositories & Guides](projects/dobby-extension.md)
   * [📝 Medium Articles](projects/articles.md)
   * [💻 GitHub Repositories & Guides](projects/github.md)
   * [🎨 Graphics & Content](projects/art.md)

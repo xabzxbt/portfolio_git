@@ -13,7 +13,6 @@
 * [🛠️ My Work](projects/README.md)
   * [⭐ GitHub Repositories & Guides](projects/dobby-extension.md)
   * [📝 Medium Articles](projects/articles.md)
-  * [💻 GitHub Repositories & Guides](projects/github.md)
   * [🎨 Graphics & Content](projects/art.md)
 * [🤝 Partners](partners.md)
 * [📬 Contact](contact.md)

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Andrii Rudenko — AI Solution Architect](README.md)
+* [👋 Introduction](README.md)
 * [🧑‍💻 About Me](about.md)
 * [⚙️ Skills & Expertise](skills.md)
 * [💼 Positions & Roles](roles/README.md)
@@ -8,10 +8,10 @@
   * [FogoChain — Community Moderator](roles/fogochain.md)
   * [DoubleZero — Community Moderator](roles/doublezero.md)
   * [Fraction AI — Moderator](roles/fraction-ai.md)
-* [🛠 My Work](projects/README.md)
-  * [Browser Extension: Chat Dobby 70B](projects/dobby-extension.md)
-  * [Medium Articles](projects/articles.md)
-  * [GitHub Repositories & Guides](projects/github.md)
-  * [Graphics & Content](projects/art.md)
+* [🛠️ My Work](projects/README.md)
+  * [⭐ Browser Extension: Chat Dobby 70B](projects/dobby-extension.md)
+  * [📝 Medium Articles](projects/articles.md)
+  * [💻 GitHub Repositories & Guides](projects/github.md)
+  * [🎨 Graphics & Content](projects/art.md)
 * [🤝 Partners](partners.md)
 * [📬 Contact](contact.md)

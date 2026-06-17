@@ -5,7 +5,7 @@
 * [⚙️ Skills & Expertise](skills.md)
 * [💼 Positions & Roles](roles/README.md)
   * [Sentient - Community Moderator, Builder Content Manager](roles/sentient.md)
-  * [ONcompute — Ambassador](roles/oncompute.md)
+  * [ONcompute - Ambassador](roles/oncompute.md)
   * [FogoChain - Community Moderator](roles/fogochain.md)
   * [DoubleZero - Community Moderator](roles/doublezero.md)
   * [Recall Network — Community Moderator](roles/recall-network.md)

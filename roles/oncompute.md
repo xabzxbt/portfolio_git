@@ -1,11 +1,10 @@
-# ONcompute — Ambassador
+# ONcompute - Ambassador
 
-**Role:** Ambassador
-**Period:** 06.25 – Present
+**Role:** Ambassador **Period:** 06.26 – Present
 
 ### About the project
 
-ONcompute — follow on [X](https://x.com/ONcompute).
+ONcompute - follow on [X](https://x.com/ONcompute).
 
 ### What I do
 
@@ -14,4 +13,3 @@ As an **Ambassador** I represent and promote the project, grow its reach, suppor
 ### Links
 
 * 🐦 [Project Twitter](https://x.com/ONcompute)
-* 📜 Role proof — _add screenshot/link_

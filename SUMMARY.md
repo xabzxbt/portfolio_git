@@ -6,7 +6,7 @@
 * [💼 Positions & Roles](roles/README.md)
   * [Sentient - Community Moderator, Builder Content Manager](roles/sentient.md)
   * [FogoChain - Community Moderator](roles/fogochain.md)
-  * [DoubleZero — Community Moderator](roles/doublezero.md)
+  * [DoubleZero - Community Moderator](roles/doublezero.md)
   * [Fraction AI — Moderator](roles/fraction-ai.md)
 * [🛠️ My Work](projects/README.md)
   * [⭐ Browser Extension: Chat Dobby 70B](projects/dobby-extension.md)
